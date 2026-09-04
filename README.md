@@ -6,7 +6,7 @@
 
 ## Overview
 
-gdViewer (genomic diversity viewer) is a [JBrowse 2](https://jbrowse.org/jb2/) plugin designed for interactive visualization and exploration of genomic diversity.
+gdViewer (Genomic Diversity Viewer) is a [JBrowse 2](https://jbrowse.org/jb2/) plugin designed for interactive visualization and exploration of genomic diversity.
 
 While conventional workflows often require separate tools to examine variants, motif predictions, haplotype information and phylogenetic tree, gdViewer integrates these data types into a unified browser interface and enhances the exploration of variant patterns across samples.
 
