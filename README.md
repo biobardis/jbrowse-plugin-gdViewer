@@ -20,7 +20,7 @@ While conventional workflows often require separate tools to examine variants, m
 | **Variant Visualization** | Displays variants across samples, including variant types, overall distribution, and detailed information for individual variants. |
 | **Motif Visualization** | Displays motif predictions and detailed motif information, with linkage to Variant Visualization for identifying variant–motif overlaps. |
 | **Haplotype Visualization** | Displays haplotype groups, identifies potential premature termination codons (PTCs), and supports inspection and sequence copying of haplotypes. |
-| **Phylogenetic Tree Integration** | Supports tree operations such as collapsing and pruning, synchronizes sample order with the variant view, and links haplotypes with phylogenetic relationships. |
+| **Phylogenetic Tree Visualization** | Supports tree operations such as collapsing and pruning, synchronizes sample order with the variant view, and links haplotypes with phylogenetic relationships. |
 
 
 ## Biological Case Studies
